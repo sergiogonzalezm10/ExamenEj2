@@ -1,8 +1,8 @@
-package EjercicioEj2;
+package ExamenEj2;
 
 import java.util.Scanner;
 
-public class EjercicioEj2 {
+public class ExamenEj2 {
 
 	public static void main(String[] args) {
 		int numhoras;							//Variable para almacenar número horas
